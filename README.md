@@ -22,6 +22,11 @@ This Vivado project implements an 8-bit CPU using VHDL. The project is organized
     - `clock_divider.vhd`
   - **Top-Level Design:**
     - `cpu_core.vhd`
+   
+### 3. Testbenches
+- Contains the testbench files for verifying the working cpu design
+  - **Modules:**
+      - `cpu_core_tb.vhd`
 
 ## How to Use
 
