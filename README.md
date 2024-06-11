@@ -2,7 +2,7 @@ Overview:
 
 # Vivado CPU Design Project
 
-This Vivado project implements an 8-bit CPU using VHDL. The project is organized into various directories and contains VHDL files for different components of the CPU.
+This Vivado project implements an 8-bit RISC-V CPU using VHDL. The project is organized into various directories and contains VHDL files for different components of the CPU.
 
 ## Project Structure
 
